@@ -9,7 +9,6 @@ version = '1.0.0-SNAPSHOT'
 
 asciidoctorj {
     version = '1.6.0-alpha.3'
-    groovyDslVersion = '1.0.0.Alpha2'
 }
 
 asciidoctor {
